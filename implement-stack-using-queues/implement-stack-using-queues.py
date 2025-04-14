@@ -17,3 +17,5 @@ class MyStack:
 
     def empty(self) -> bool:
         return not self.queue and not self.rev_queue
+    
+    
