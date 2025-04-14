@@ -21,5 +21,7 @@ class MyQueue:
 
     def empty(self) -> bool:
         return not self.stack_in and not self.stack_out
+    
+
         
         
