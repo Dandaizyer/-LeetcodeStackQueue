@@ -19,3 +19,5 @@ class FreqStack:
         if not self.group[self.maxfreq]:
             self.maxfreq -= 1
         return val
+    
+    
